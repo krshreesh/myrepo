@@ -1,5 +1,5 @@
 this is my test file from NVirginia
 
-this is my first webhook trigger build
-This is really good Job trigger 
+
+This is really good Job trigger as this will trigger only if any commit but it will check every one min if  any changes
 Hello this pollscm job
